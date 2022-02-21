@@ -1,0 +1,25 @@
+{
+  "name": "sberz-project",
+  "version": "1.0.0",
+  "description": "Electron project for SberZ Contest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorlight04/sberz-project.git"
+  },
+  "keywords": [
+    "sberz"
+  ],
+  "author": "Egor Light",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorlight04/sberz-project/issues"
+  },
+  "homepage": "https://github.com/egorlight04/sberz-project#readme",
+  "dependencies": {
+    "electron": "^17.0.1"
+  }
+}
